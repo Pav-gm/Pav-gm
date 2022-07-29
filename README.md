@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pav-gm
 - 👀 I’m interested in learning to code proficiently
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning Python, R and SQL.
 - 💞️ I’m looking to collaborate on anything that would help me learn.
 
 <!---
