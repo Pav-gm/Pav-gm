@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Pgonzalez12m@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JyBiDJAusfTXrvd1yfLCIqnV0pVkIO0Y/view?usp=sharing](https://drive.google.com/file/d/1JyBiDJAusfTXrvd1yfLCIqnV0pVkIO0Y/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JyBiDJAusfTXrvd1yfLCIqnV0pVkIO0Y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
