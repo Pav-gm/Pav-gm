@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavel Gonzalez</h1>
 <h3 align="center">A passionate Data Analyst from Dominican Republic.</h3>
 
-- 🌱 I’m currently learning **SQL Severl, Looker and Python**
+- 🌱 I’m currently learning **SQL Server, Looker and Python**
 
 - 📫 Courses I'm undergoing: [Data Warehouse for Business Intelligence](https://www.coursera.org/specializations/data-warehousing), [SQL Server Developer Datacamp](https://www.datacamp.com/tracks/sql-server-developer?version=2), [Data Analysis in Python](https://www.datacamp.com/tracks/data-analyst-with-python).
 
