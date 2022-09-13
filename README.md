@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQL Server, Looker and Python**
 
-- 📫 Courses I'm undergoing: [Data Warehouse for Business Intelligence](https://www.coursera.org/specializations/data-warehousing), [SQL Server Developer Datacamp](https://www.datacamp.com/tracks/sql-server-developer?version=2), [Data Analysis in Python](https://www.datacamp.com/tracks/data-analyst-with-python).
+- 📫 Courses I'm undergoing: [Data Warehouse for Business Intelligence](https://www.coursera.org/specializations/data-warehousing), [SQL Server Developer Datacamp](https://www.datacamp.com/tracks/sql-server-developer?version=2), [Data Analysis with Python Datacamp](https://www.datacamp.com/tracks/data-analyst-with-python).
 
 - 📧 How to reach me **Pgonzalez12m@gmail.com**
 
