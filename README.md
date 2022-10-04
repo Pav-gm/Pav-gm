@@ -7,7 +7,7 @@
 
 - 📧 How to reach me **Pgonzalez12m@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1JyBiDJAusfTXrvd1yfLCIqnV0pVkIO0Y/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1wl1qj_YEBMVdUM_hmTXOjYsgpp2tj3Fh/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
