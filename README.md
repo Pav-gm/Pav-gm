@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Data Engineering and Python**
 
-- 📫 Courses I'm undergoing: [Data Warehouse for Business Intelligence](https://www.coursera.org/specializations/data-warehousing), [SQL Server Developer - Datacamp](https://www.datacamp.com/tracks/sql-server-developer?version=2), [Data Analysis with Python - Datacamp](https://www.datacamp.com/tracks/data-analyst-with-python).
+- 📫 Courses I'm undergoing: [Data Warehouse for Business Intelligence](https://www.coursera.org/specializations/data-warehousing), [Data Engineer Track - Datacamp](https://app.datacamp.com/learn/career-tracks/data-engineer?version=5).
 
 - 📧 How to reach me **Pgonzalez12m@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xAWKoxiM4vMhhIABKzfXWMqtDe7MdICY/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1hgIcsyd84mW4gagHY5-pRlUUiwRhSYg8/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
